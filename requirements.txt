@@ -1,0 +1,6 @@
+numpy
+pandas
+openpyxl
+
+# for torch with cuda support (GPU), comment torch, torchvision, torchaudio and uncomment the following
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 OR another 
